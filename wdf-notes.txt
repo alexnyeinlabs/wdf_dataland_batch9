@@ -1,0 +1,78 @@
+Paragraph Tag - doesn't recognize 'enter' & only recognize one space.
+
+Line Break Tag - <br/> - self closing tag
+Bold - <b></b>
+
+HTML tags/elements တွေမှာ power balance ကိုကြည့်မယ်ဆိုရင်
+paragraph tag နဲ့ bold, underline, italic တို့နဲ့ ယှဥ်ရင် paragraph tag ကို ဦးစားပေးရမယ် 
+
+Pre Tag က space & tab & enter တွေကို သိတယ်
+
+စာသားတကြောင်း/စာပိုဒ်တပိုဒ်ကို ဘာtag effect မှမဝင်စေချင်ဘူးဆိုရင် paragraph tag အစား ငါတို့ span ဆိုတဲ့ tag ကိုသုံးလို့ရတယ် သူက စာသားတခုကို tag တခုထဲမှာထည့်ပေးလိုက်တာ
+
+HTML comment = < !-- -- >
+In comment, there are 2 types of comments -
+1. Single Line Comment
+2. Multi Line Comment
+
+But in HTML both Single & Multi Line Comments are same.
+
+In HTML, there are 2 types of elements -
+1. Block Elements : သူက ကိုယ့်ရဲ့ windows တခုလုံးစားကို နေရာယူလိုက်တာ ကိုယ့်ရဲ့ စာသားအဲလောက်မရှိပေးမဲ့လည်း
+2. Inline Elements : သူက တော့ စာသားရှိသလောက်ပဲ နေရာယူတာ
+
+Self Closing Tag
+line break tag: <br />
+horizontal ruler: <hr />
+image tag: <img />
+
+Inline Element (စာလုံးအစကနေပြီတော့ စာလုံးအဆုံးရှိတဲ့နေရာထိပဲ နေရာယူတာ)
+bold tag: <b></b>
+italic tag: <i></i>
+underline tag: <u></u>
+span tag: <span></span>
+small tag: <small></small>
+delete tag: <del></del>
+strike tag: <strike></strike>
+anchor tag: <a></a>
+image tag: <img />
+
+
+Block Element (ရေးတဲ့စာ အစကနေပြီတော့ screen size အဆုံးထိနေရာယူတယ်)
+paragraph: <p></p>
+heading tag: <h1>..<h6> - </h1>..</h6>
+address tag: <address></address>
+line-break tag: <br/>
+horizontal-ruler tag: <hr/>
+marquee tag: <marquee></marquee>
+ordered list tag: <ol></ol>
+unordered list tag: <ul></ul>
+list tag: <li></li>
+
+Attribute တွေကို value ပေးတဲ့ နေရာမှာ Fixed Value & Custom Value ဆိုပြီ ၂မျိုးရှိတယ်
+Fixed Value ဆိုတာ သူဖော်ပြထားတဲ့ value ကိုပဲထည့်ပေးလို့ရတာ
+
+တချို့သော် attribute တွေမှာဆိုရင် Fixed Value လည်းပေးလို့ရသလို့ Custom Value 
+လည်းပေးလို့ရတယ်
+
+attribute တွေမှာ width ကိုပေးမယ်ဆိုရင် တခုသတိထားရမဲ့ဟာရှိတယ်။
+Devices တွေမှာ screen size တခုနဲ့ တခုမတူကျဘူး pixels တွေ မတူကျဘူး အဲတော့ အဲလိုမျိုး 
+အချိန်ကျရင် pixels နဲ့ပေးထားထပ်စားရင် percentage နဲ့ပေးတာ ပိုအဆင်ပြေတယ် ဘာလို့လည်းဆိုရင်
+ခန့်မှန်းစရာမလိုတော့ပဲနဲ့ သူပါသာသူ နေရာယူသွားလိမ့်မယ်
+
+Width ကို 100% အနေနဲ့ ယူလို့ရပေမဲ့ Height ကို 100% ယူလို့ မရဘူး ဘာလို့လည်းဆိုရင်
+Height ကသူရဲ့ element ရှိသလောက်ပဲ သူရဲ့ Height ဖြစ်နေတဲ့ အတွက်ကြောင့်မို့လို့
+Height ကို 100% ယူချင်တယ်ဆိုရင် အမြင့်သတ်မှတ်ပေးရတယ် အဲလိုမှသာ Height ကို percentage
+or 100% နဲ့ ယူလို့ရမှာ
+ယူချင်တယ်ဆိုရင် pixels နဲ့ ယူလို့ရတယ်
+
+There are 2 ways to use anchor tag-
+1. Local File link
+2. Global Link (External)
+
+Anchor tag မှာ သုံးတဲ့ target ဆိုတာ ဒီ website/webpage ကို new tab အနေနဲ့ ဖွင့်ပေးတာကို
+ပြောတာ
+Anchor Tag မှာ './' ဆိုတာ start from here ဆိုတဲ့ meaning ဖြစ်တယ် ဒီကနေစပါဆိုတဲ့
+အဓိပ္ပာယ်
+
+List Style ထဲမှာ 2 types ရှိတယ် that is ordered list and unordered list.

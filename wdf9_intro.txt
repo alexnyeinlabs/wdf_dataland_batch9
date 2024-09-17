@@ -1,0 +1,21 @@
+WDF 9
+
+Website
+
+There are 2 types of website-
+1. Static Website - read only
+2. Dynamic Website - both read & write
+
+Programming (Programmer/Developer)
+- windows (OS, App)
+- Machine (App)
+- Mobile Phone (OS, App), (Android/iOS)
+- Website (App)
+
+HTML = frame
+CSS = design
+JavaScript = action
+
+Bootstrap (CSS & Library)
+jQuery (JavaScript & Library)
+Github
